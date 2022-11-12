@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h2 align="center">Hi 👋, I'm xbernardoalvez66</h2>
-   <h3 align="center">Soy una persona apasionada por la programacion y la tecnologia de Uruguay.Me gusta aprender nuevos lenguajes de programacion y investigar tecnologias nuevas.Tambien soy recibido  de analista programador </h3>
+   <h3 align="center">Soy una persona apasionada por la programacion y la tecnologia de Uruguay.Me gusta aprender nuevos lenguajes de programacion y investigar tecnologias nuevas.Tambien soy recibido  de analista programador y me gusta trabajar en equipo </h3>
 </div>
 
 
