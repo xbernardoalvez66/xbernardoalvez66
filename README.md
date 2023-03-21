@@ -6,6 +6,10 @@
 
 
 ----
+<h2 align="center">Oi 👋, I'm xbernardoalvez66</h2>
+<h3 align="center">Sou uma pessoa apaixonada pela programacao e a tecnologia do Uruguai.Gosto de aprender novas linguajes de programacao e pesquisar novas tecnologias.Tambem sou recibido de analista programador e gosto de trabalhar em equipe </h3>
+</div>
+
 
 ### 👨‍💻 About Me :
 
