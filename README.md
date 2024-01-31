@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me :
 
 
-- 💬 Ask me about **PHP, Javascript**
+- 💬 Ask me about **PHP, Javascript,IT**
 -  📫 How to reach me **bernardoalvez648@gmail.com**
 
 
